@@ -1,0 +1,11 @@
+# Rayne Cassano
+# I know Japanese
+print("""
+RRRR   CCC 
+R   R C   C
+R   R C    
+RRRR  C    
+R R   C    
+R  R  C   C
+R   R  CCC 
+""")
